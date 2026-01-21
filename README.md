@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I am Imej Gautam
 
 <!--
-**igt9/igt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Civil Engineering Student with interests on Water Resources Management
 
-Here are some ideas to get you started:
+- Recently graduated from Pulchowk Campus, Tribhuvan University
+- Reach me at: 077bce061.imej@pcampus.edu.np
+- 🌐 [Personal Website](https://imejgautam.com.np) | 💼 [LinkedIn](https://https://www.linkedin.com/in/imejgautam/)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HEC-RAS](https://img.shields.io/badge/HEC--RAS-00599C?style=for-the-badge)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7BE5?style=for-the-badge&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=arduino&logoColor=white)
+
