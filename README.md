@@ -4,7 +4,7 @@
 
 - 🎓 Recently graduated from Pulchowk Campus, Tribhuvan University
 - 📫 Reach me at: 077bce061.imej@pcampus.edu.np
-- 🌐 [Personal Website](https://imejgautam.com.np) | 💼 [LinkedIn](https://www.linkedin.com/in/imejgautam/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/imejgautam/)
 
 ---
 
